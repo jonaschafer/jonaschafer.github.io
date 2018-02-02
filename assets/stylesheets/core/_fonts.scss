@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'GTPressuraMono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('GTPressuraMono'), local('GTPressuraMono'),
+       url('/assets/fonts/GTPressuraMono.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/assets/fonts/GTPressuraMono.woff') format('woff'), /* Modern Browsers */
+       url('/assets/fonts/GTPressuraMono.ttf') format('truetype'), /* Safari, Android, iOS */
+}
+
+@font-face {
+  font-family: 'Graphik-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Graphik-Regular'), local('Graphik-Regular'),
+       url('/assets/fonts/Graphik-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/assets/fonts/Graphik-Regular.woff') format('woff'), /* Modern Browsers */
+       url('/assets/fonts/Graphik-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+}

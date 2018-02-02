@@ -1,0 +1,167 @@
+/* ==========================================================================
+   Layout
+========================================================================== */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.container {
+  padding: 40px;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+body {
+  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  color: $grey;
+  background-color: $peach;
+}
+
+
+/* ==========================================================================
+   Header
+========================================================================== */
+
+nav {
+  margin-bottom: 40px;
+}
+
+/* ==========================================================================
+   Typography
+========================================================================== */
+
+.date {
+  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  color: $grey-light;
+}
+
+// a link for nav
+.no-underline {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding-left: 20px;
+  margin: 0;
+}
+
+li {
+	line-height: 24px;
+	padding-bottom: 6px;
+}
+
+li::before {
+  content: "• ";
+  color: $coral;
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+	font-size: 26px;
+	line-height: 30px;
+	color: $grey;
+}
+
+h4 {
+  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 30px;
+	color: $grey;
+}
+
+h6 {
+	font-family: 'GTPressuraMono', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 20px;
+
+  // weird margin thing
+  margin: inherit;
+	color: $coral;
+}
+
+.footer {
+  font-size: 14px;
+}
+
+/* ==========================================================================
+   Links
+========================================================================== */
+
+a {
+ color: inherit;
+}
+
+a:hover {
+ color: #F38470;
+}
+
+/* ==========================================================================
+   Flexbox / footer
+========================================================================== */
+
+.parent {
+    display: flex;
+    align-items: center;
+}
+
+.left {
+     margin-right: auto;
+ }
+
+ footer {
+   margin-top: 100px;
+   color: $grey-light;
+ }
+
+ /* ==========================================================================
+    Grid
+ ========================================================================== */
+
+.grid-parent {
+  display: flex;
+  justify-content: space-between;
+}
+
+ .grid-child {
+   background-color: #fff;
+   flex-flow: row wrap;
+   width: 220px;
+   padding: 0 20px 0 20px;
+ }
+
+ .grid-headline {
+   color: $grey;
+   font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+   font-size: 20px;
+ }
+
+.grid-blurb {
+  color: $grey-light;
+  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.grid-cta {
+  color: $grey;
+  font-family: 'GTPressuraMono', Helvetica, Arial, sans-serif;
+  font-size: 13px;
+}
+
+/* Between 601 - 900px */
+@media only screen and (max-width: 800px) and (min-width: 600px) {
+  .grid-parent {
+    background-color: red;
+  
+  }
+
+}
