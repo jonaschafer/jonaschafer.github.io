@@ -22,6 +22,9 @@ collections:
   work:
     output: true
     permalink: /:collection/:name/
+  archive:
+      output: true
+      permalink: /:collection/:name/
 
 # Collections default
 defaults:
@@ -33,5 +36,10 @@ defaults:
   - scope:
       path: ""
       type: "work"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "archive"
     values:
       layout: default
