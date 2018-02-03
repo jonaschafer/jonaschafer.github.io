@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+  <body>
+    <div class="container">
+      <nav>
+        <div class="parent">
+          <div class="left"><p>
+            <a class="no-underline" href="{{ site.url }}">Musings on Levi & Cassidy</a>
+          </div>
+        </div>
+      </nav>
+      {{ content }}
+      {% include footer-kiddos.html %}
+    </div>
+  </body>
+</html>
