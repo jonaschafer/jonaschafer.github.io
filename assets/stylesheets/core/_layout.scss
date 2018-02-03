@@ -67,7 +67,21 @@ li::before {
 h1 {
   font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
 	font-size: 26px;
-	line-height: 30px;
+	line-height: 36px;
+	color: $grey;
+}
+
+h2 {
+  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+	font-size: 22px;
+	line-height: 36px;
+	color: $grey;
+}
+
+h3 {
+  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	line-height: 16px;
 	color: $grey;
 }
 
