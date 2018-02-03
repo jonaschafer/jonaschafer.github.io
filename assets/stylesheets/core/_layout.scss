@@ -157,14 +157,24 @@ a:hover {
     Queries
  ========================================================================== */
 
- /* Between 601 - 900px */
- @media only screen and (max-width: 800px) and (min-width: 600px) {
+ /* Between 350 - 900px */
+ @media only screen and (max-width: 800px) and (min-width: 350px) {
   h2 {
-    line-height: 30px;
+    font-size: 20px;
+    line-height: 28px;
   }
 
   body {
-    background-color: red;
+    font-size: 15px;
+    line-height: 22px;
+  }
+
+  .parent {
+    flex-flow: column wrap;
+  }
+
+  .left {
+    align-items: flex-start;
   }
 
  }
