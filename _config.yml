@@ -19,7 +19,7 @@ collections:
   kiddos:
     output: true
     permalink: /:collection/:name/
-  travel:
+  work:
     output: true
     permalink: /:collection/:name/
 
@@ -32,6 +32,6 @@ defaults:
       layout: default
   - scope:
       path: ""
-      type: "travel"
+      type: "work"
     values:
       layout: default
