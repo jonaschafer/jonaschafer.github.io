@@ -1,18 +1,18 @@
 .bkg-color {
   /* animation-name followed by duration in seconds*/
   /* you could also use milliseconds (ms) or something like 2.5s */
-  animation: colorchange 50s;
+  animation: colorchange 50s infinite;
 
   /* Chrome and Safari */
-  -webkit-animation: colorchange 50s;
+  -webkit-animation: colorchange 50s infinite;
 }
 
 @keyframes colorchange {
   0%   {background: #FFFABA;}
   25%  {background: #D3FFDF;}
   50%  {background: #D3FFFD;}
-  25%  {background: #FFF3D3;}
-  0% {background: #FFE7D3;}
+  75%  {background: #FFF3D3;}
+  100% {background: #FFFABA;}
 }
 
  /* Safari and Chrome - necessary duplicate */
@@ -20,6 +20,6 @@
   0%   {background: #FFFABA;}
   25%  {background: #D3FFDF;}
   50%  {background: #D3FFFD;}
-  25%  {background: #FFF3D3;}
-  0% {background: #FFE7D3;}
+  75%  {background: #FFF3D3;}
+  100% {background: #FFFABA;}
 }
