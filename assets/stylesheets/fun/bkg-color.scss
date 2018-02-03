@@ -8,18 +8,18 @@
 }
 
 @keyframes colorchange {
-  0%   {background: red;}
-  25%  {background: yellow;}
-  50%  {background: blue;}
-  75%  {background: green;}
-  100% {background: red;}
+  0%   {background: #FFFABA;}
+  25%  {background: #D3FFDF;}
+  50%  {background: #D3FFFD;}
+  25%  {background: #FFF3D3;}
+  0% {background: #FFE7D3;}
 }
 
  /* Safari and Chrome - necessary duplicate */
 @-webkit-keyframes colorchange {
-  0%   {background: red;}
-  25%  {background: yellow;}
-  50%  {background: blue;}
-  75%  {background: green;}
-  100% {background: red;}
+  0%   {background: #FFFABA;}
+  25%  {background: #D3FFDF;}
+  50%  {background: #D3FFFD;}
+  25%  {background: #FFF3D3;}
+  0% {background: #FFE7D3;}
 }
