@@ -171,10 +171,12 @@ a:hover {
 
   .parent {
     flex-flow: column wrap;
+    align-items: start;
   }
 
-  .left {
-    align-items: flex-start;
+  footer a {
+    margin: 0;
+    padding: 0;
   }
 
  }
