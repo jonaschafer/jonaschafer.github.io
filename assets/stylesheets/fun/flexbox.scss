@@ -4,14 +4,15 @@
 
 .grid-parent {
  display: flex;
+ flex-flow: row wrap;
  justify-content: space-between;
 }
 
 .grid-child {
-  background-color: #fff;
-  flex-flow: row wrap;
+  background-color: $peach-dark;
   width: 220px;
   padding: 0 20px 0 20px;
+  text-align: center;
 }
 
 .grid-headline {
