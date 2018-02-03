@@ -5,7 +5,7 @@ title: Why, Hello There - The Portfolio of Jon Schafer
 
 <body class="bkg-color">
 
-<h2>Jon Schafer is a designer, art director and illustrator working under the moniker Why, Hello There. He's currently working as a Product Designer at Zapier.</h2>
+<h2>Jon Schafer is a designer, art director and illustrator working under the moniker Why, Hello There. He's currently working as a Product Designer at <a href="http://www.zapier.com" target="_blank">Zapier</a>.</h2>
 
 <h2>Most days you can find him working near a <a href="https://en.wikipedia.org/wiki/Mount_Tabor" target="_blank"> dormant volcano</a>, and frequenting <a href="http://www.forestparkconservancy.org/forest-park/" target="_blank">Forest Park</a> with his family as much as possible.</h2>
 
