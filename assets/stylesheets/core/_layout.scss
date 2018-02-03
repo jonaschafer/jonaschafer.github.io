@@ -55,10 +55,12 @@ ul {
   list-style: none;
   // padding-left: 20px;
   padding: 0;
+  color: $grey-light;
 }
 
 li {
-	line-height: 24px;
+  font-size: 14px;
+	line-height: 22px;
 
 }
 
