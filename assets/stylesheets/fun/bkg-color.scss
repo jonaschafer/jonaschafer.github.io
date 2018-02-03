@@ -7,8 +7,7 @@
   -webkit-animation: colorchange 50s;
 }
 
-@keyframes colorchange
-{
+@keyframes colorchange {
   0%   {background: red;}
   25%  {background: yellow;}
   50%  {background: blue;}
@@ -16,8 +15,8 @@
   100% {background: red;}
 }
 
-@-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
-{
+ /* Safari and Chrome - necessary duplicate */
+@-webkit-keyframes colorchange {
   0%   {background: red;}
   25%  {background: yellow;}
   50%  {background: blue;}
