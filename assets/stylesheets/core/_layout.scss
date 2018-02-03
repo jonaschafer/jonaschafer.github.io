@@ -152,3 +152,19 @@ a:hover {
  footer a {
    padding-right: 10px;
  }
+
+ /* ==========================================================================
+    Queries
+ ========================================================================== */
+
+ /* Between 601 - 900px */
+ @media only screen and (max-width: 800px) and (min-width: 600px) {
+  h2 {
+    line-height: 30px;
+  }
+
+  body {
+    background-color: red;
+  }
+
+ }
