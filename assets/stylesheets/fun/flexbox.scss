@@ -10,7 +10,7 @@
 
 .grid-child {
   background-color: $peach-dark;
-  width: 220px;
+  width: 200px;
   padding: 0 20px 0 20px;
 }
 
@@ -37,7 +37,11 @@
 @media only screen and (max-width: 800px) and (min-width: 600px) {
  .grid-parent {
    background-color: red;
+ }
 
+ .grid-child {
+  background-color: green;
+  margin: 20px 0 20px 0;
  }
 
 }
