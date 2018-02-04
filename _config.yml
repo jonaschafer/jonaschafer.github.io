@@ -1,6 +1,6 @@
-title: Hilarious things my kiddos say
+title: Why, Hello There
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my first jekyll blog and serves two purposes: 1) force myself to keep up with code by using Jekyll to power my blog and 2) capturing hilarious things my kiddos say as they get older.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
