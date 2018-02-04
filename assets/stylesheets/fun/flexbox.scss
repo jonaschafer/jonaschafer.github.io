@@ -10,9 +10,16 @@
 
 .grid-child {
   background-color: $peach-dark;
-  width: 200px;
+  width: 220px;
+  height: 100px;
   padding: 0 20px 0 20px;
+  margin: 10px 0 10px 0;
 }
+
+.grid-child:hover {
+  background-color: white;
+}
+
 
 .grid-headline {
   color: $grey;
@@ -33,15 +40,22 @@
  font-size: 13px;
 }
 
-/* Between 601 - 900px */
-@media only screen and (max-width: 800px) and (min-width: 600px) {
- .grid-parent {
-   background-color: red;
+/* Between 715 - 900px */
+@media only screen and (max-width: 800px) and (min-width: 675px) {
+
+.grid-child {
+  margin: 20px 0 20px 0;
+  width: 100%;
  }
 
- .grid-child {
-  background-color: green;
-  margin: 20px 0 20px 0;
+}
+
+/* Between 350 - 675px */
+@media only screen and (max-width: 675px) and (min-width: 350px) {
+
+.grid-child {
+  margin: 10px 0 10px 0;
+  width: 100%;
  }
 
 }
