@@ -41,10 +41,8 @@ nav {
   margin-bottom: 40px;
 }
 
-nav a,
-nav a:hover {
+nav a {
   padding-right: 10px;
-  color: $coral;
 }
 
 /* ==========================================================================
@@ -109,6 +107,7 @@ h4 {
 	font-size: 16px;
 	line-height: 30px;
 	color: $grey;
+  padding-top: 30px;
 }
 
 h6 {
@@ -126,6 +125,25 @@ h6 {
 }
 
 /* ==========================================================================
+   Code
+========================================================================== */
+
+.language-bash {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #404040;
+  color: #d5d5d5;
+  font-size: 14px;
+  font-family: Menlo,Roboto Mono,Courier New,monospace;
+  border-radius: 3px;
+  width: 100%;
+  height: 60px;
+  padding-left: 15px;
+}
+
+
+/* ==========================================================================
    Links
 ========================================================================== */
 
@@ -134,7 +152,7 @@ a {
 }
 
 a:hover {
- color: #F38470;
+ color: $coral;
 }
 
 a:visited {
