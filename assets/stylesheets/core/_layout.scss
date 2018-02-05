@@ -128,7 +128,7 @@ h6 {
    Code
 ========================================================================== */
 
-.language-bash {
+.language-bash-box {
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -140,6 +140,14 @@ h6 {
   width: 100%;
   height: 60px;
   padding-left: 15px;
+}
+
+.language-bash {
+  background-color: $peach-dark;
+  color: $coral;
+  font-size: 14px;
+  font-family: Menlo,Roboto Mono,Courier New,monospace;
+  display: inline;
 }
 
 

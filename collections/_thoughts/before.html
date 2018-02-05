@@ -3,6 +3,8 @@ layout: thoughts
 title: Thoughts - Before we begin
 ---
 
+<!-- Inspired by: https://www.taniarascia.com/make-a-static-website-with-jekyll/ -->
+
 <!-- Article title -->
 <h1>Before we begin</h1>
 
@@ -15,7 +17,31 @@ title: Thoughts - Before we begin
 
 <p>This site is meant to be a sandbox to help me keep at learning code. That could mean changing the design of the site, trying out a CSS experiment, or just writing more. So, before we begin, I wanted to kick off this post with a hopefully-quick intro to how I set up this site on Jekyll.</p>
 
-<h4>So, what is Jekyll?</h4>
-<p>Jekyll is a "static site generator", which means it takes markdown files (and other files too, like Liquid which I don't mess with) and converts them to HTML. Why would you need this, you might ask? Because you can focus on writing in Markdown, which is lightweight, and Jekyll will take care of pretty much everything else.</p>
+<h4>Goals of this post</h4>
+<ul>
+  <li>Keep up with basic HTML, CSS and SASS</li>
+  <li>Work with basic command line</li>
+  <li>How to use Git, and Github</li>
+  <li>Install Jekyll</li>
+</ul>
 
-<pre class="language-bash">gem install jekyll bundler</pre>
+<h4>So, what is Jekyll?</h4>
+<p>Basically Jekyll is a "static site generator" that runs on a programming language called Ruby. For the most part, working with Jekyll is comprised of Markdown, HTML, CSS and SASS files. In fact, you won't mess with Ruby at all. Jekyll is meant for blogging, and comes pre-installed with folders for "posts" and "drafts", but you can use it for anything.</p>
+
+<h4>Did you say, static?</h4>
+<p>Nice catch. Websites fit into two camps: dynamic and static. A dynamic site has a back-end database attached to it, most often written in PHP. Dynamic sites, like Wordpress, act like a CMS (Content Management System), so maintaining the site is ultra-simple. Static, on the other hand, is basically a collection of folders and files, with a few bonus features.</p>
+
+<h4>Oooo. What bonus features?</h4>
+<p>Jekyll has a bunch of little tricks that allows you to use it like a lo-fi CMS. For instance, it converts Markdown files to HTML, CSS to SASS (it has a built-in processor), and allows you to use something called a
+  <span class="language-bash">partial</span>. A
+  <span class="language-bash">partial</span> is a file that includes dense information (like the contents of the
+  <span class="language-bash">head</span>) and stores this file into a folder called an <span class="language-bash">includes</span>.
+</p>
+
+<h4>Where does Github come in?</h4>
+
+<h4>Getting set up</h4>
+<p>There a bunch of steps you need to take to set up Jekyll on your machine, but first you should start with making sure you have Xcode installed.
+<pre class="language-bash-box">gem install jekyll bundler</pre>
+
+<h4>Process</h4>
