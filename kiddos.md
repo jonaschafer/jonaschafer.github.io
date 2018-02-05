@@ -1,6 +1,6 @@
 ---
 layout: kiddos
-title: Kiddos
+title: Musings on Levi & Cassidy
 ---
 
 <h6>What's this about?</h6>
