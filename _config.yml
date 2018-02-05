@@ -46,8 +46,8 @@ defaults:
       type: "archive"
     values:
       layout: default
-    - scope:
-        path: ""
-        type: "thoughts"
-      values:
-        layout: default
+  - scope:
+      path: ""
+      type: "thoughts"
+    values:
+      layout: default
