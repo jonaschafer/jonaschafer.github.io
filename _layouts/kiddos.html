@@ -4,13 +4,7 @@
     {% include head.html %}
   <body>
     <div class="container">
-      <nav>
-        <div class="parent">
-          <div class="left"><p>
-            <a class="no-underline" href="{{ site.url }}">Musings on Levi & Cassidy</a>
-          </div>
-        </div>
-      </nav>
+      {% include navigation-kiddos.html %}
       {{ content }}
       {% include footer-kiddos.html %}
     </div>
