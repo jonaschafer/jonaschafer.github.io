@@ -82,26 +82,6 @@ a:visited {
   text-decoration: none;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-  color: $grey-light;
-}
-
-li {
-  font-size: 14px;
-	line-height: 22px;
-  padding-left: 20px;
-}
-
-// color the bullet points
-li::before {
-  content: "• ";
-  color: $coral;
-  margin-right: 10px;
-  font-size: 20px;
-}
-
 h1 {
   font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
 	font-size: 26px;
@@ -152,6 +132,41 @@ h6 {
 
 .footer {
   font-size: 14px;
+}
+
+/* ==========================================================================
+   Bullets
+========================================================================== */
+
+ul {
+  list-style: none;
+  margin-top: 20px;
+  color: $grey-light;
+}
+
+li {
+  font-size: 14px;
+	line-height: 22px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  color: $grey-light;
+}
+
+.li-indent {
+  font-size: 14px;
+	line-height: 22px;
+  padding-left: 20px;
+}
+
+// color the bullet points
+.li-indent::before {
+  content: "• ";
+  color: $coral;
+  margin-right: 10px;
+  font-size: 20px;
 }
 
 /* ==========================================================================
