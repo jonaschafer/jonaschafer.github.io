@@ -58,7 +58,14 @@ title: Thoughts - Before we begin
 
 
 <h4>Process</h4>
-<p>After installing Jekyll, you'll have a bunch of folders and files placed inside your repo folder. At which point, here's what my ideal set up looks like:
+<p>After installing Jekyll, you'll have a bunch of folders and files placed inside your repo folder. At which point, it's time to start whittling down how you want the site to behave. Below is a <span class="code">tree</span> view of my site structure. Here's some background:
+
+  <ul>
+    <li>Remove the <span class="code">posts</span> and <span class="code">drafts</span> folders.</li>
+    <li>Create a <span class="code">_collections</span> folder for separate parts of my site, like <span class="code">/blog</span></li>
+    <li>Build my assets folder</li>
+    <li>Add html files for particular nav and footers</li>
+    
 
 <p><pre>
   ├── 404.html
@@ -551,8 +558,3 @@ title: Thoughts - Before we begin
   └── work.html
 
 </pre></p>
-
-<ul>
-  <li>Remove the <span class="code">posts</span> and <span class="code">drafts</span> folders.</li>
-  <li>Create a <span class="code">_collections</span> folder for separate parts of my site, like <span class="code">/blog</span></li>
-  <li>Build my assets folder</li>
