@@ -84,7 +84,7 @@ a:visited {
 
 ul {
   list-style: none;
-  // padding-left: 20px;
+
   padding: 0;
   color: $grey-light;
 }
@@ -92,16 +92,17 @@ ul {
 li {
   font-size: 14px;
 	line-height: 22px;
+  padding-left: 20px;
 
 }
 
 // color the bullet points
-// li::before {
-//   content: "• ";
-//   color: $coral;
-//   margin-right: 10px;
-//   font-size: 20px;
-// }
+li::before {
+  content: "• ";
+  color: $coral;
+  margin-right: 10px;
+  font-size: 20px;
+}
 
 h1 {
   font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
