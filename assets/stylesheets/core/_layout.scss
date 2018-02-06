@@ -155,8 +155,8 @@ h6 {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  background-color: #404040;
-  color: #d5d5d5;
+  background-color: $terminal;
+  color: $bash;
   font-size: 14px;
   font-family: Menlo,Roboto Mono,Courier New,monospace;
   border-radius: 3px;
@@ -171,6 +171,18 @@ h6 {
   font-size: 14px;
   font-family: Menlo,Roboto Mono,Courier New,monospace;
   display: inline;
+}
+
+pre {
+	background: $terminal;
+  color: $bash;
+	border-radius: 5px;
+	padding: 12px 16px;
+	line-height: 2em;
+	font-family: "Monaco", "Courier New", Courier, monospace;
+	font-size: .75em;
+
+  overflow: auto;
 }
 
 
