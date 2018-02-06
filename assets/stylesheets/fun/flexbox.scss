@@ -44,6 +44,10 @@
 /* Between 715 - 900px */
 @media only screen and (max-width: 800px) and (min-width: 675px) {
 
+.grid-parent {
+  flex-flow: column wrap;
+}
+
 .grid-child {
   margin: 20px 0 20px 0;
   width: 100%;
@@ -53,6 +57,10 @@
 
 /* Between 350 - 675px */
 @media only screen and (max-width: 675px) and (min-width: 350px) {
+
+.grid-parent {
+  flex-flow: column wrap;
+}
 
 .grid-child {
   margin: 10px 0 10px 0;
