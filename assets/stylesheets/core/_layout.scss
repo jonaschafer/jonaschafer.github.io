@@ -140,7 +140,7 @@ h6 {
 
 ul {
   list-style: none;
-  margin-top: 20px;
+  margin-top: 10px;
   color: $grey-light;
 }
 
@@ -149,20 +149,20 @@ li {
 	line-height: 22px;
 }
 
-ul {
+.indent {
   list-style: none;
   padding: 0;
   color: $grey-light;
 }
 
-.li-indent {
+.indent-item {
   font-size: 14px;
 	line-height: 22px;
   padding-left: 20px;
 }
 
 // color the bullet points
-.li-indent::before {
+.indent-item::before {
   content: "• ";
   color: $coral;
   margin-right: 10px;
