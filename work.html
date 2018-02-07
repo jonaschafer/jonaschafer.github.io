@@ -57,8 +57,8 @@ title: Why, Hello There - Work
 
 </div>
 
-{% for item in collections.work %}
-  <a href="{{ collections.url }}">
-    <p>{{ collections.title }}</p>
+{% for item in site.work %}
+  <a href="{{ item.url }}">
+    <p>{{ item.title }}</p>
   </a>
 {% endfor %}

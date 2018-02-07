@@ -1,0 +1,12 @@
+---
+layout: default
+title: Thoughts
+---
+
+<h2>Thoughts</h2>
+
+{% for item in site.thoughts %}
+  <a href="{{ item.url }}">
+    <p>{{ item.title }}</p>
+  </a>
+{% endfor %}
