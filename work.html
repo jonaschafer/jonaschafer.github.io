@@ -2,7 +2,7 @@
 layout: default
 title: Why, Hello There - Work
 ---
-
+<!-- 
 <h2>Work</h2>
 
 <div class="grid-parent">
@@ -55,4 +55,10 @@ title: Why, Hello There - Work
     </div>
   </a>
 
-</div>
+</div> -->
+
+{% for item in site.work %}
+  <a href="{{ item.url }}">
+    <p>{{ item.title }}</p>
+  </a>
+{% endfor %}
