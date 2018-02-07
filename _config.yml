@@ -22,11 +22,11 @@ collections:
     output: true
     permalink: /:collection/:name/
   archive:
-      output: true
-      permalink: /:collection/:name/
+    output: true
+    permalink: /:collection/:name/
   thoughts:
-      output: true
-      permalink: /:collection/:name/
+    output: true
+    permalink: /:collection/:name/
 
 # Collections default
 defaults:

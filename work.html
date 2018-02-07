@@ -57,10 +57,8 @@ title: Why, Hello There - Work
 
 </div>
 
-<h1>WORK</h1>
-
 {% for item in site.work %}
-  <a href="{{ item.url }}">
-    <p>{{ item.title }}</p>
-  </a>
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.description }}</p>
+  <p><a href="{{ item.url }}">{{ item.title }}</a></p>
 {% endfor %}
