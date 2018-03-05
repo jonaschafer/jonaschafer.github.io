@@ -26,10 +26,14 @@ h2 {
 	line-height: 36px;
 	color: $grey;
   padding-top: 10px;
+}
 
-  &__intro {
+ .intro {
+    font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+    font-size: 22px;
+    line-height: 36px;
+    color: $grey;
     padding-bottom: 20px;
-  }
 }
 
 h3 {
