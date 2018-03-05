@@ -64,3 +64,27 @@ h6 {
 .footer {
   font-size: 14px;
 }
+
+/* ==========================================================================
+   Code
+========================================================================== */
+
+pre {
+  background-color: $terminal;
+  color: $bash;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Menlo,Roboto Mono,Courier New,monospace;
+  border-radius: 3px;
+  padding: 20px;
+  height: 300px;
+  overflow: auto;
+}
+
+.code {
+  background-color: $peach-dark;
+  color: $coral;
+  font-size: 14px;
+  font-family: Menlo,Roboto Mono,Courier New,monospace;
+  display: inline;
+}
