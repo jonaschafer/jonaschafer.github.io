@@ -66,68 +66,6 @@ a:visited {
   color: $grey;
 }
 
-/* ==========================================================================
-   Bullets
-========================================================================== */
-
-
-ul {
-  list-style: none;
-  margin-top: 10px;
-  padding: 0;
-  color: $grey-light;
-
-  li {
-    font-size: 14px;
-  }
-}
-
-.indent {
-  margin-top: 0px;
-  color: $grey;
-
-  li {
-    font-size: 14px;
-    line-height: 22px;
-    padding-left: 20px;
-
-    &:before {
-      content: "• ";
-      color: $coral;
-      margin-right: 5px;
-      font-size: 20px;
-    }
-  }
-}
-
-
-
-
-
-/* ==========================================================================
-   Code
-========================================================================== */
-
-pre {
-  background-color: $terminal;
-  color: $bash;
-  font-size: 14px;
-  line-height: 24px;
-  font-family: Menlo,Roboto Mono,Courier New,monospace;
-  border-radius: 3px;
-  padding: 20px;
-  height: 300px;
-  overflow: auto;
-}
-
-.code {
-  background-color: $peach-dark;
-  color: $coral;
-  font-size: 14px;
-  font-family: Menlo,Roboto Mono,Courier New,monospace;
-  display: inline;
-}
-
 
 /* ==========================================================================
    Flexbox
