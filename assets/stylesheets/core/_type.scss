@@ -2,13 +2,14 @@
    Typography
 ========================================================================== */
 
+// not being used = way to see unused globally?
 .date {
   font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
   font-size: 16px;
   color: $grey-light;
 }
 
-// a link for nav
+// should be BEM, e.g. p__underline ?
 .no-underline {
   text-decoration: none;
 }
@@ -28,6 +29,7 @@ h2 {
   padding-top: 10px;
 }
 
+// should be nested BEM, e.g. &__intro
  .intro {
     font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
     font-size: 22px;
@@ -61,6 +63,7 @@ h6 {
 	color: $coral;
 }
 
+// should be BEM, p__footer?
 .footer {
   font-size: 14px;
 }
@@ -69,6 +72,7 @@ h6 {
    Code
 ========================================================================== */
 
+// unsused
 pre {
   background-color: $terminal;
   color: $bash;
@@ -81,6 +85,7 @@ pre {
   overflow: auto;
 }
 
+// should be BEM, p_code, SPAN class
 .code {
   background-color: $peach-dark;
   color: $coral;
