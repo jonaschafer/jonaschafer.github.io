@@ -2,7 +2,7 @@
    Queries
 ========================================================================== */
 
-/* Between 350 - 900px */
+/* Between 350 - 800px */
 @media only screen and (max-width: 800px) and (min-width: 350px) {
  h2 {
    font-size: 20px;
@@ -11,6 +11,7 @@
 
  body {
    font-size: 15px;
+   // color: red;
    line-height: 22px;
  }
 
