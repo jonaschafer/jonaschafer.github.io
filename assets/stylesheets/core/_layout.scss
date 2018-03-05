@@ -223,26 +223,3 @@ footer {
  footer a {
    padding-right: 10px;
  }
-
- /* ==========================================================================
-    Queries
- ========================================================================== */
-
- /* Between 350 - 900px */
- @media only screen and (max-width: 800px) and (min-width: 350px) {
-  h2 {
-    font-size: 20px;
-    line-height: 28px;
-  }
-
-  body {
-    font-size: 15px;
-    line-height: 22px;
-  }
-
-  footer.parent {
-    display: block;
-    align-items: start;
-  }
-
- }
