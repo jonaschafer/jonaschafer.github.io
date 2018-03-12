@@ -42,3 +42,11 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: $coral-dark;
 }
+
+.form-done {
+  display: none;
+}
+
+.form-fail {
+  display: none;
+}
