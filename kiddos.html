@@ -10,7 +10,9 @@ title: Musings on Levi & Cassidy
 <h4>Current posts</h4>
 
 {% for item in site.kiddos %}
-  <a href="{{ item.url }}">
-    <p>{{ item.title }}</p>
-  </a>
+  <p class="p--blogpost">
+    <a class="no-underline" href="{{ item.url }}">
+      <p>{{ item.title }}</p>
+    </a>
+  </p>
 {% endfor %}
