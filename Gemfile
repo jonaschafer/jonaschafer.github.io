@@ -1,6 +1,6 @@
 source "https://rubygems.org"
-# gem "github-pages"
-gem "jekyll", "~> 3.7.0"
+gem "github-pages"
+# gem "jekyll", "~> 3.7.0"
 
 # Update the gemfile (e.g. to: gem "jekyll", "~> 3.7.0")
 # Delete the `gemfile.lock` file
