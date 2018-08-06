@@ -6,26 +6,20 @@ title: Thoughts
 <h1>Thoughts</h1>
 <p>A random collection of assorted thoughts, how-to's and personal ruminations with the goal of writing more often. </p>
 
-<!-- Article -->
-<h2>
-  <a class="no-underline" href="{{ item.url }}">
-    <p>How to use Jekyll</p>
-  </a>
-  <p class="date">February 15, 2018</p>
-</h2>
-
-<!-- Article -->
-<h2>
-  <a class="no-underline" href="{{ item.url }}">
-    <p>I love you, but you're bringing me down</p>
-  </a>
-  <p class="date">August 6, 2018</p>
-</h2>
-
 {% for item in site.thoughts %}
+  <!-- Article -->
   <h2>
     <a class="no-underline" href="{{ item.url }}">
       <p>{{ item.title }}</p>
     </a>
+    <p class="date">February 15, 2018</p>
+  </h2>
+
+  <!-- Article -->
+  <h2>
+    <a class="no-underline" href="{{ item.url }}">
+      <p>{{ item.title }}</p>
+    </a>
+    <p class="date">August 6, 2018</p>
   </h2>
 {% endfor %}
