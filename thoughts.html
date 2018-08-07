@@ -11,7 +11,7 @@ title: Thoughts
   <h2>
     <a class="no-underline" href="{{ item.url }}">
       <p>{{ item.title }}</p>
+      <p class="date">{{ page.date | date: '%B %d, %Y' }}</p>
     </a>
-    <p class="date">February 15, 2018</p>
   </h2>
 {% endfor %}
