@@ -1,0 +1,47 @@
+---
+layout: recipes
+title: Why, Hello There - The Portfolio of Jon Schafer
+---
+
+<body class="bkg-color">
+
+  <p class="intro"> What do you want for dinner? </p>
+  <h1><span id="message">Laughing Planet</span></h1>
+  <button type="button" id="randomizer">Something else</button>
+
+
+  <script>
+    (() => {
+      const nouns = [
+        'Shalanes Farro and Kale salad w/ HB eggs',
+        'Adobe Chicken Tacos',
+        'Serious Eats Sloppy Joes with Jalapeno-carrot slaw',
+        'TJs Frozen Bean burgers with spinach salad',
+        'Tuna salad lettuce cups',
+        'Soy-Maple Turkey Lettuce Cups',
+        'Challah French Toast with Scrambled eggs, bacon',
+        'Sheet pan chicken with roasted carrots and cauliflower',
+        'Spaghetti with ground chuck meat sauce',
+        'Instant pot teriyaki with rice, veggies',
+        '',
+        '',
+        '',
+      ];
+
+      const sample = (arr) => {
+        const index = Math.floor(Math.random() * arr.length);
+        return arr[index];
+      };
+
+      const message = document.querySelector('#message');
+      const button = document.querySelector('#randomizer');
+
+      button.addEventListener('click', () => {
+        const noun = sample(nouns);
+        message.innerHTML = noun;
+      });
+    })()
+  </script>
+
+</body>
+</html>
