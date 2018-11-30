@@ -5,18 +5,20 @@ title: What's our meal plan?
 
 <body class="bkg-color">
 
+<form action="#">
   <p class="intro">What should we eat this week?*</p>
 
   <p class="prep">Dinner 1</p>
-  <p class="recipe"><span id="message">Laughing Planet</span></p>
+  <p class="recipe"><span class="message">Laughing Planet</span></p>
 
   <p class="prep">Dinner 2</p>
-  <p class="recipe"><span id="message">Laughing Planet</span></p>
+  <p class="recipe"><span class="message">Laughing Planet</span></p>
 
   <p class="prep">Dinner 3</p>
-  <p class="recipe"><span id="message">Laughing Planet</span></p>
+  <p class="recipe"><span class="message">Laughing Planet</span></p>
 
-  <button class="button" type="button" id="randomizer">Something else</button>
+  <button class="button">Something else</button>
+</form>
 
   <p class="prep">*This grouping works on the following schedule:
     <ul class="grey">
@@ -74,18 +76,19 @@ title: What's our meal plan?
       ];
 
       const sample = (arr) => {
-        const index = Math.floor(Math.random() * arr.length);
-        return arr[index];
-      };
+            const index = Math.floor(Math.random() * arr.length);
+            return arr[index];
+          };
 
-      const message = document.querySelector('#message');
-      const button = document.querySelector('#randomizer');
-
-      button.addEventListener('click', () => {
-        const noun = sample(nouns);
-        message.innerHTML = noun;
-      });
-    })()
+          document.addEventListener('submit', (e) => {
+            e.preventDefault();
+            const form = e.target;
+            const messages = form.querySelectorAll('.message');
+            messages.forEach((message) => {
+              message.innerHTML = sample(nouns);
+            });
+          });
+      })()
   </script>
 
 </body>
