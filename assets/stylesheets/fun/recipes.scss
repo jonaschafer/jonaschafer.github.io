@@ -16,7 +16,6 @@
   background: white;
 }
 
-
 .recipe {
   font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
   font-size: 36px;
@@ -30,6 +29,8 @@
   margin-top: 60px;
 }
 
+// meals styles
+
 .book {
   min-height: 36em;
   // background: green;
@@ -41,6 +42,10 @@
   line-height: 36px;
   color: $grey;
   margin-bottom: 30px;
+}
+
+.byline {
+  margin-bottom: 20px;
 }
 
 .grey {
