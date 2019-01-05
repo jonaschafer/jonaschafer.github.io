@@ -6,14 +6,22 @@ title: Thoughts
 <!-- <h1>Thoughts</h1>
 <p>A random collection of assorted thoughts, how-to's and personal ruminations with the goal of writing more often. </p> -->
 
-{% for item in site.thoughts %}
+<!-- {% for item in site.thoughts %}
   <!-- Article -->
   <p class="article-list">
     <h1 class="article">
       <a class="no-underline" href="{{ item.url }}">
         <p>{{ item.title }}</p>
+        <p class="date">{{ page.date | date_to_long_string }}</p>
       </a>
     </h1>
-    <p class="date">August 8, 2018</p>
+
   </p>
 {% endfor %}
+
+<!-- {% for post in site.posts %}
+  <a href="{{ post.url }}">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.date | date_to_string }}</p>
+  </a>
+{% endfor %} -->

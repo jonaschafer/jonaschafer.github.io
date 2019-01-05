@@ -1,6 +1,7 @@
 ---
 layout: default
 title: More and Less
+date: 2019-01-03
 ---
 
 # More and less
