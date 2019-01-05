@@ -9,14 +9,17 @@
   font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
   font-size: 14px;
   color: $grey-light;
+  // background:blue;
+  padding: 0;
 }
 
 .article {
   font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
 	font-size: 32px;
-	line-height: 36px;
-  margin: 0;
-	color: $grey;
+	margin: 0;
+  color: $grey;
+  // background:red;
+  padding: 0;
 }
 
 .article-list {
