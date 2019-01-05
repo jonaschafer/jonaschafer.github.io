@@ -2,13 +2,27 @@
    Typography
 ========================================================================== */
 
-// not being used = way to see unused globally?
+/* ==========================================================================
+   Thoughts
+========================================================================== */
 .date {
   font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
-  font-size: 13px;
-  margin-top: -10px;
+  font-size: 14px;
   color: $grey-light;
 }
+
+.article {
+  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+	font-size: 36px;
+	line-height: 36px;
+  margin: 0;
+	color: $grey;
+}
+
+/* ==========================================================================
+   Everything else
+========================================================================== */
+
 
 // should be BEM, e.g. p__underline ?
 .no-underline {

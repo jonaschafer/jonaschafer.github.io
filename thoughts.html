@@ -8,10 +8,10 @@ title: Thoughts
 
 {% for item in site.thoughts %}
   <!-- Article -->
-  <h2>
+  <h1 class="article">
     <a class="no-underline" href="{{ item.url }}">
       <p>{{ item.title }}</p>
-      <p class="date">{{ page.date | date: '%B %d, %Y' }}</p>
     </a>
-  </h2>
+  </h1>
+  <p class="date">August 8, 2018</p>
 {% endfor %}
