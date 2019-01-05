@@ -27,6 +27,19 @@
   padding: 15px;
 }
 
+blockquote {
+  font-size: 20px;
+  line-height: 30px;
+  margin: 30px auto;
+  font-style:italic;
+  color: $grey-light;
+  padding: 0 30px 0 30px;
+  border-left: 4px solid #ccc;
+  // position: relative;
+  // background:$peach-dark;
+
+}
+
 /* ==========================================================================
    Everything else
 ========================================================================== */

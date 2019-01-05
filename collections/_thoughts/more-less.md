@@ -6,16 +6,12 @@ date: 2019-01-03
 
 # More and less
 
-Every Friday my inbox is blessed with the so-called "5 Bullet Friday" from prolific and semi-slick author, Tim Ferriss. In the issue before the new year, he published a small insight on why *not* to have new year's resolutions:
+Every Friday my inbox is blessed with Tim Ferriss' so-called <a href="https://tim.blog/welcome-to-5-bullet-friday/">"5 Bullet Friday"</a>, a collection of easily-digestible links to books, people, products and ideas that is rattling around in his head. TBH, they're hit or miss. One week might be some kind nutritional supplement that touts memory retention. While other weeks, like his last one before the end of the year, reflects on avoiding New Year's Resolutions:
 
-> I’m often asked about how I approach New Year’s resolutions. The truth is that I no longer approach them at all, even though I did for decades. Why the change? I have found “past year reviews” (PYR) more informed, valuable, and actionable than half-blindly looking forward with broad resolutions. I did my first PYR after a mentor’s young daughter died of cancer on December 31st, roughly eight years ago, and I’ve done it every year since. It takes 30-60 minutes and looks like this:
+<blockquote>
+  I’m often asked about how I approach New Year’s resolutions. The truth is that I no longer approach them at all, even though I did for decades. Why the change? I have found “past year reviews” (PYR) more informed, valuable, and actionable than half-blindly looking forward with broad resolutions. I did my first PYR after a mentor’s young daughter died of cancer on December 31st, roughly eight years ago, and I’ve done it every year since. It takes 30-60 minutes
+</blockquote>
 
-1. Grab a notepad and create two columns: POSITIVE and NEGATIVE.
+He goes on to describe how it works, which is straightforward, but a little unrealistic (you can read how to do it <a href="https://tim.blog/2018/12/28/past-year-review/">here</a>). For instance, he suggests going through your calendar of the previous year and pouring over each week on what went well, and what didn't. While I love that idea conceptually, unless I kept an active journal (read: I don't), then it would be pretty darn hard to drum up this information.
 
-2. Go through your calendar from the last year, looking at every week.
-
-3. For each week, jot down on the pad any people or activities or commitments that triggered peak positive or negative emotions for that month. Put them in their respective columns.
-
-4. Once you’ve gone through the past year, look at your notepad list and ask, “What 20% of each column produced the most reliable or powerful peaks?”
-
-5. Based on the answers, take your “positive” leaders and schedule more of them in the new year. Get them on the calendar now! Book things with friends and prepay for activities/events/commitments that you know work. It’s not real until it’s in the calendar. That’s step one. Step two is to take your “negative” leaders, put “NOT-TO-DO LIST” at the top, and put them somewhere you can see them each morning for the first few weeks of 2019. These are the people and things you *know* make you miserable, so don’t put them on your calendar out of obligation, guilt, FOMO, or other nonsense.
+However, I do think there is something to this idea of consciously jotting down what resonates and what detracts from your day, week or month. It's an opportunity for self-reflection which can lead to improvement. 
