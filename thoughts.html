@@ -6,16 +6,15 @@ title: Thoughts
 <!-- <h1>Thoughts</h1>
 <p>A random collection of assorted thoughts, how-to's and personal ruminations with the goal of writing more often. </p> -->
 
-<!-- {% for item in site.thoughts %}
+{% for item in site.thoughts reversed %}
   <!-- Article -->
   <p class="article-list">
     <h1 class="article">
       <a class="no-underline" href="{{ item.url }}">
         <p>{{ item.title }}</p>
-        <p class="date">{{ item.date | date: "%B %-d, %Y"}}</p>
       </a>
     </h1>
-
+    <p class="date">{{ item.date | date: "%B %-d, %Y"}}</p>
   </p>
 {% endfor %}
 
