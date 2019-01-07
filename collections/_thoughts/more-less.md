@@ -4,6 +4,26 @@ title: More and Less
 date: 2019-01-03
 ---
 
+<style>
+  body {
+    background-color: #fff;
+  }
+
+  h1 {
+    font-size: 30px;
+    line-height: 38px;
+  }
+
+  p {
+    font-size: 18px;
+    line-height: 29px;
+  }
+
+  a:hover {
+    color: hotpink;
+  }
+</style>
+
 # More and less
 
 Every Friday morning my inbox is blessed with Tim Ferriss' so-called <a href="https://tim.blog/welcome-to-5-bullet-friday/">"5 Bullet Friday"</a>, a collection of easily-digestible links to books, people, products and ideas that are rattling around in his head that week. The one I received a week before year's end was pretty interesting: he arguest _against_ New Year's Resolutions:
