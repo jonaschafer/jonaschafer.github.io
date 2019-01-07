@@ -81,13 +81,22 @@ a:visited {
  ========================================================================== */
 
  .umbrella {
-   display: flex;
-   align-items: center;
+  width: auto;
+  display: flex;
+  align-items: center;
  }
 
  .umbrella-left {
-   padding: 1em;
+  // padding: 1em;
+  flex: 1;
+  // background-color: blue;
   }
+
+.umbrella-right {
+  // padding: 1em;
+  flex: 1;
+  // background-color: green;
+}
 
 
  /* ==========================================================================
