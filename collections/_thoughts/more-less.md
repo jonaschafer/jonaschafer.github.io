@@ -14,9 +14,18 @@ date: 2019-01-03
     line-height: 38px;
   }
 
+  h2 {
+    padding-bottom: 20px;
+  }
+
   p {
     font-size: 18px;
     line-height: 29px;
+  }
+
+  .list {
+    font-size: 16px;
+    line-height: 18px;
   }
 
   a:hover {
@@ -36,9 +45,26 @@ He goes on to describe how it works, which is straightforward though a little un
 
 First off, I love the list of items this person chose (more Japan!). But I also love the broadstrokes. I could see taping this poster on the wall behind my computer or on the fridge for my wife and I to reference, to keep us positive and self aware.
 
-<!-- To that end, here's a recap of 2018:
+To that end, here's a recap of 2018:
 
 <div class="umbrella">
-  <div class="umbrella-left">More</div>
-  <div class="umbrella-right">Less</div>
-</div> -->
+  <div class="umbrella-left">
+    <h2>More</h2>
+      <p class="list">Trail runs</p>
+      <p class="list">Nordic skiing</p>
+      <p class="list">Dinner parties</p>
+      <p class="list">Kettlebell classes</p>
+      <p class="list">Rumination</p>
+      <p class="list">Cooking projects</p>
+      <p class="list">Dranks with old friends</p>
+      <p class="list">Art projects with kids</p>
+  </div>
+  <div class="umbrella-right">
+  <h2>Less</h2>
+    <p class="list">Overthinking</p>
+    <p class="list">Hot takes</p>
+    <p class="list">Dining out</p>
+    <p class="list">Sleeping in</p>
+
+  </div>
+</div>

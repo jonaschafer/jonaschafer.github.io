@@ -83,12 +83,14 @@ a:visited {
  .umbrella {
   width: auto;
   display: flex;
-  align-items: center;
+  align-items: top;
  }
 
  .umbrella-left {
   // padding: 1em;
   flex: 1;
+  // margin-right: 20px;
+  // border-right: 1px solid $grey-light;
   // background-color: blue;
   }
 
