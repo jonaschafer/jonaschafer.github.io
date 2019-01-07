@@ -14,9 +14,11 @@ Every Friday morning my inbox is blessed with Tim Ferriss' so-called <a href="ht
 
 He goes on to describe how it works, which is straightforward though a little unrealistic: go through the previous year, week by week, evaluating what went well and what didn't. Who keeps detailed records like that? While I love that idea conceptually (you can read how to do it <a href="https://tim.blog/2018/12/28/past-year-review/">here</a>), I felt like there could be a simpler way. That's when I saw [this](https://www.swiss-miss.com/2018/12/more-less-2.html).
 
-First off, I love the list of items this person chose (more Japan!). But I also love the broadstrokes. I could see taping this poster on the wall behind my computer or on the fridge for my wife and I to reference, to keep us positive and self aware. To that end, here's a recap of 2018:
+First off, I love the list of items this person chose (more Japan!). But I also love the broadstrokes. I could see taping this poster on the wall behind my computer or on the fridge for my wife and I to reference, to keep us positive and self aware.
+
+<!-- To that end, here's a recap of 2018:
 
 <div class="umbrella">
   <div class="umbrella-left">More</div>
   <div class="umbrella-right">Less</div>
-</div>
+</div> -->
