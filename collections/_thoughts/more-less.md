@@ -5,10 +5,6 @@ date: 2019-01-03
 ---
 
 <style>
-  body {
-    background-color: #fff;
-  }
-
   h1 {
     font-size: 30px;
     line-height: 38px;
