@@ -29,7 +29,7 @@ While these new elements helped explain our product, the design team was startin
 One of the largest themes we uncovered was around the lack of consistency of the Zapier brand. From superheroes to rocket ships, there was no clear rationale behind the Zapier visual identity. This caused confusion not only for our growing Design Team on how best to create cohesive user experiences together, but also for new users who were unfamiliar with Zapier. With each Product Designer embedded on different parts of the product, creating a map for them to work from was a crucial step towards solving that problem.
 </blockquote>
 
-👆🏼 <a href="https://zapier.com/blog/remote-design-visual-identity/" target="_blank">Zapier's Remote Design</a> blog post
+👆🏼 [Zapier's Remote Design](https://zapier.com/blog/remote-design-visual-identity/) blog post
 
 ![Stock in 3M optional](/assets/images/thoughts/applings-3M.jpg)
 
