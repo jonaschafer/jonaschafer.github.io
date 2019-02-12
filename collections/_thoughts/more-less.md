@@ -4,31 +4,6 @@ title: More and Less
 date: 2019-01-03
 ---
 
-<style>
-  h1 {
-    font-size: 30px;
-    line-height: 38px;
-  }
-
-  h2 {
-    padding-bottom: 20px;
-  }
-
-  p {
-    font-size: 18px;
-    line-height: 29px;
-  }
-
-  .list {
-    font-size: 16px;
-    line-height: 18px;
-  }
-
-  a:hover {
-    color: hotpink;
-  }
-</style>
-
 # More and less
 
 Every Friday morning my inbox is blessed with Tim Ferriss' so-called <a href="https://tim.blog/welcome-to-5-bullet-friday/">"5 Bullet Friday"</a>, a collection of easily-digestible links to books, people, products and ideas of the week. I look forward to to it because I always come away with some new movie I should check out or a quote that shifts my perspective. Like the one I received a week before year's end and how he argues _against_ New Year's Resolutions:
