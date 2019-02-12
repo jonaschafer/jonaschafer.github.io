@@ -8,6 +8,14 @@
   <!-- Base CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/base.css">
 
+	<!-- Custom CSS -->
+	<!-- https://jreel.github.io/per-page-custom-css-in-jekyll/ -->
+	{% if page.custom_css %}
+		{% for stylesheet in page.custom_css %}
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/fun/{{ stylesheet }}.scss">
+		{% endfor %}
+	{% endif %}
+
   <!-- Site title -->
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
