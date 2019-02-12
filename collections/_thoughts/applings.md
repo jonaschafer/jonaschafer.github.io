@@ -5,7 +5,7 @@ title: The semi-rebrand of Zapier
 date: 2019-02-11
 ---
 
-# The creation of Zaplings
+# The semi-rebrand of Zaplings
 When I joined Zapier back in 2017, my first project seemed pretty straightforward: redesign an illustration for our Teams plan. A year or so later, that innocuous graphic resulted in a ripple effect that touched on not only our design system, but also our brand identity. But before we get to all of that, let’s start with a little bit of Zapier’s design history:
 
 
