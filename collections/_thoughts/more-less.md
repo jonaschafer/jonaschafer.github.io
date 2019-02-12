@@ -16,7 +16,7 @@ He goes on to describe how it works, which is straightforward but a little unrea
 
 ![](/assets/images/thoughts/more-less.jpg).
 
-First off, the items on this example are amazing (more Japan!), but also the broadstroke simplicity. They read like a mantra to follow and track daily. Are you actively making plans for a new trip to Japan? How are your plants looking? That kind of thing. Then, fortuitously, I had a beer with a friend who told me how he use Google Sheets to track his (positive) habits that give him a high level of his progress. He has graciously shared the [file](https://docs.google.com/spreadsheets/d/1wFmKDd_wmyKdwGKc0Wsfg0yw_cGBX33mccqBG9rj3-s/edit#gid=0)) here! Here's a preview:
+First off, the items on this example are amazing (more Japan!), but also the broadstroke simplicity. They read like a mantra to follow and track daily. Are you actively making plans for a new trip to Japan? How are your plants looking? That kind of thing. Then, fortuitously, I had a beer with a friend who told me how he use Google Sheets to track his (positive) habits that give him a high level of his progress. He has graciously shared the [file](https://docs.google.com/spreadsheets/d/1wFmKDd_wmyKdwGKc0Wsfg0yw_cGBX33mccqBG9rj3-s/edit?usp=sharing)) here! Here's a preview:
 
 ![](/assets/images/thoughts/habit-tracker.png)
 
