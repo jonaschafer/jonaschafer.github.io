@@ -4,31 +4,6 @@ title: The semi-rebrand of Zapier
 date: 2019-02-11
 ---
 
-<style>
-  h1 {
-    font-size: 30px;
-    line-height: 38px;
-  }
-
-  h2 {
-    padding-bottom: 20px;
-  }
-
-  p {
-    font-size: 18px;
-    line-height: 29px;
-  }
-
-  .list {
-    font-size: 16px;
-    line-height: 18px;
-  }
-
-  a:hover {
-    color: hotpink;
-  }
-</style>
-
 # The creation of Zaplings
 When I joined Zapier back in 2017, my first project seemed pretty straightforward: redesign an illustration for our Teams plan. A year or so later, that innocuous graphic resulted in a ripple effect that touched on not only our design system, but also our brand identity. But before we get to all of that, let’s start with a little bit of Zapier’s design history:
 
