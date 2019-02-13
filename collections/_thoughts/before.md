@@ -1,28 +1,23 @@
 ---
-layout: default
+layout: thoughts
 title: Jekyll 101
 date: 2018-08-08
 ---
 
 <!-- Inspired by: https://www.taniarascia.com/make-a-static-website-with-jekyll/
-https://learn.cloudcannon.com/
--->
+https://learn.cloudcannon.com/ -->
 
-<!-- Article title -->
-<h1>Before we begin</h1>
+# Before we begin
 
-<!-- Rumination -->
-<p>I'm not a developer.</p>
+**I'm not a developer.** I do have a strong foundation in development, however. I grew up futzing around with SCSI cables with my Dad, or taking classes in BASIC in high school. And I've built way too many static sites over the years. Heck, I even took a course in Front End Development at Treehouse a few years back with the fantasy of switching careers.
 
-<p>I do have a strong foundation in development, however. I grew up futzing around with SCSI cables with my Dad, or taking classes in BASIC in high school. And I've built way too many static sites over the years. Heck, I even took a course in Front End Development at Treehouse a few years back with the fantasy of switching careers.</p>
+But each time I'd get into the development world, I'd get sidetracked with my main profession - design. And unfortunately when that happened, it's like the saying goes: "If you don't use it, you lose it."
 
-<p>But each time I'd get into the development world, I'd get sidetracked with my main profession - design. And unfortunately when that happened, it's like the saying goes: "If you don't use it, you lose it." </p>
+My hope with this inaugural post is to use Jekyll has a foundation to not only write more (even if it's just code) but to also maintain that coding muscle. Jekyll is fast, and easy and is a great tool to explore code. So to start things off I thought I'd explain how I got started with Jekyll and how you could, too.
 
-<p>My hope with this inaugural post is to use Jekyll has a foundation to not only write more (even if it's just code) but to also maintain that coding muscle. Jekyll is fast, and easy and is a great tool to explore code. So to start things off I thought I'd explain how I got started with Jekyll and how you could, too.</p>
+## A guide to Jekyll
 
-<h2>A guide to Jekyll</h2>
-
-<h4>What you'll learn</h4>
+#### What you'll learn
 <ul class="indent">
   <li>Basic HTML, CSS and SASS</li>
   <li>Basic command line</li>
@@ -30,22 +25,22 @@ https://learn.cloudcannon.com/
   <li>What Jekyll is and how to install it</li>
 </ul>
 
-<h4>So, what is Jekyll?</h4>
-<p>Jekyll is what's known as a "static site generator" that runs on a programming language called Ruby. For the most part, working with Jekyll is working with Markdown, HTML, CSS and SASS files. You'll hardly touch Ruby (thankfully) except for getting the system set up. Jekyll is meant for blogging, and comes pre-installed with folders for "posts" and "drafts", but you can reallly use it for anything.</p>
+#### So, what is Jekyll?
+Jekyll is what's known as a "static site generator" that runs on a programming language called Ruby. For the most part, working with Jekyll is working with Markdown, HTML, CSS and SASS files. You'll hardly touch Ruby (thankfully) except for getting the system set up. Jekyll is meant for blogging, and comes pre-installed with folders for "posts" and "drafts", but you can reallly use it for anything.
 
-<h4>You lost me at "static."</h4>
-<p>Ruh roh. So, websites fit into two camps: dynamic and static. A dynamic site has a back-end database attached to it, most often written in PHP. Dynamic sites, like Wordpress, act like a CMS (Content Management System) so maintaining the site is ultra-simple. Typically you'd visit a login screen, enter your credentials and get started posting. Static, on the other hand, is basically a collection of folders and files, entirely written in code. It's ideal as a portfolio or blogging platform because you are just duplicating files, not setting up databases.</p>
+#### You lost me at "static."
+Ruh roh. So, websites fit into two camps: dynamic and static. A dynamic site has a back-end database attached to it, most often written in PHP. Dynamic sites, like Wordpress, act like a CMS (Content Management System) so maintaining the site is ultra-simple. Typically you'd visit a login screen, enter your credentials and get started posting. Static, on the other hand, is basically a collection of folders and files, entirely written in code. It's ideal as a portfolio or blogging platform because you are just duplicating files, not setting up databases.
 
-<h4>What else can Jekyll do?</h4>
-<p>It can also convert Markdown (.md) files to HTML, has a built-in process for converting CSS to SASS (so you can use color variables, for instance), and it relies on something called a <span class="code">partial</span> - basically, a <span class="code">partial</span> is a file that includes dense information (like the contents of the <span class="code">head</span>) and stores this file into a folder called an <span class="code">includes</span>. But those are just a few of the cool things that Jekyll can do.</p>
+#### What else can Jekyll do?
+It can also convert Markdown (.md) files to HTML, has a built-in process for converting CSS to SASS (so you can use color variables, for instance), and it relies on something called a <span class="code">partial</span> - basically, a <span class="code">partial</span> is a file that includes dense information (like the contents of the <span class="code">head</span>) and stores this file into a folder called an <span class="code">includes</span>. But those are just a few of the cool things that Jekyll can do.
 
-<h4>You mentioned Github. Where does that come in?</h4>
-<p>Github is an optional pairing with Jekyll, but it's recommended because setting up a repo on Github is free and easy, and allows you to use git as a version control system for your site. In fact, Github has a free hosting platform - Github pages - for creating your own site. Learn more about that last bit <a href="http://pages.github.com" target="_blank">here</a>.
+#### You mentioned Github. Where does that come in?
+Github is an optional pairing with Jekyll, but it's recommended because setting up a repo on Github is free and easy, and allows you to use git as a version control system for your site. In fact, Github has a free hosting platform - Github pages - for creating your own site. Learn more about that last bit <a href="http://pages.github.com" target="_blank">here</a>.
 
-<h4>How do I get started?</h4>
-<p>There are a loads of sites dedicated to getting started, but I found <a href="https://www.taniarascia.com/make-a-static-website-with-jekyll/" target="_blank">Tania's</a> site to be the most approachable. She does a better job than I can about what you need to get started, whether that's installing <span class="code">Xcode Tools</span> or making sure you have <span class="code">bundle</span> or the right <span class="code">gems</span> installed. But, if you just want to learn the basic setup instructions, here's what you need to do (in Terminal):
+#### How do I get started?
+There are a loads of sites dedicated to getting started, but I found <a href="https://www.taniarascia.com/make-a-static-website-with-jekyll/" target="_blank">Tania's</a> site to be the most approachable. She does a better job than I can about what you need to get started, whether that's installing <span class="code">Xcode Tools</span> or making sure you have <span class="code">bundle</span> or the right <span class="code">gems</span> installed. But, if you just want to learn the basic setup instructions, here's what you need to do (in Terminal):
 
-<p><pre>
+<pre>
   <span style="color: #999;">// Create a repo or Github page</span>
   cd /Users/jon/Sites/
 
@@ -57,11 +52,11 @@ https://learn.cloudcannon.com/
 
   <span style="color: #999;">// Launch Jekyll's server</span>
   jekyll serve --livereload
-</pre></p>
+</pre>
 
 
-<h4>Getting organized</h4>
-<p>After installing Jekyll, you'll be gifted with a folder and sub-folders inside your repo. Depending on what you're after, say a blog or a portfolio, you can remove some of these default files. For my part, I wanted to use Jekyll for my portfolio and also to write a few articles every few months. So, here is how my site is broken down with a <span class="code">tree</span> view of my site structure:
+#### Getting organized
+After installing Jekyll, you'll be gifted with a folder and sub-folders inside your repo. Depending on what you're after, say a blog or a portfolio, you can remove some of these default files. For my part, I wanted to use Jekyll for my portfolio and also to write a few articles every few months. So, here is how my site is broken down with a <span class="code">tree</span> view of my site structure:
 
 <ul class="indent">
     <li class="indent-item">Remove the <span class="code">posts</span> and <span class="code">drafts</span> folders.</li>
@@ -73,7 +68,7 @@ https://learn.cloudcannon.com/
 </ul>
 
 
-<p><pre>
+<pre>
   ├── 404.html
   ├── CNAME
   ├── Gemfile
@@ -562,10 +557,10 @@ https://learn.cloudcannon.com/
   ├── readme.md
   ├── travel.md
   └── work.html
-</pre></p>
+</pre>
 
-<h4>Process</h4>
-<p>Now, every time you want to work on your site, simply run the following command in Terminal to launch it locally, and get to it!
+#### Process
+Now, every time you want to work on your site, simply run the following command in Terminal to launch it locally, and get to it!
 
 <!-- <div class="terminal">
   <div class="terminal__chrome">
@@ -573,7 +568,7 @@ https://learn.cloudcannon.com/
     <span class="terminal__dot"></span>
     <span class="terminal__dot"></span>
   </div>
-  <p>bundle install</p>
+  bundle install
 </div> -->
 
 <div class="terminal terminal--dark">
@@ -582,5 +577,5 @@ https://learn.cloudcannon.com/
     <span class="terminal__dot"></span>
     <span class="terminal__dot"></span>
   </div>
-  <p>bundle exec jekyll serve</p>
+  bundle exec jekyll serve
 </div>
