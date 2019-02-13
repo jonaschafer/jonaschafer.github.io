@@ -1,6 +1,5 @@
 ---
-layout: default
-custom_css: thoughts
+layout: thoughts
 title: The semi-rebrand of Zapier
 date: 2019-02-11
 ---
