@@ -2,51 +2,6 @@
    Typography
 ========================================================================== */
 
-/* ==========================================================================
-   Thoughts
-========================================================================== */
-.date {
-  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  color: $grey-light;
-  // background:blue;
-  padding: 0;
-  text-align: center;
-}
-
-.article {
-  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
-	font-size: 26px;
-  text-align: center;
-	margin: 0;
-  color: $grey;
-  // background:red;
-  padding: 0;
-}
-
-.article-list {
-  // background: red;
-  padding: 15px;
-}
-
-blockquote {
-  font-size: 20px;
-  line-height: 30px;
-  margin: 30px auto;
-  font-style:italic;
-  color: $grey;
-  padding: 0 30px 0 30px;
-  border-left: 4px dotted $grey-light;
-  // position: relative;
-  // background:$peach-dark;
-
-}
-
-/* ==========================================================================
-   Everything else
-========================================================================== */
-
-
 // should be BEM, e.g. p__underline ?
 .no-underline {
   text-decoration: none;
