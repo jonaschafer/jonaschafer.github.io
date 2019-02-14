@@ -560,6 +560,7 @@ After installing Jekyll, you'll be gifted with a folder and sub-folders inside y
 ## Process
 Now, every time you want to work on your site, simply run the following command in Terminal to launch it locally, and get to it!
 
+<!-- white terminal  -->
 <!-- <div class="terminal">
   <div class="terminal__chrome">
     <span class="terminal__dot"></span>
@@ -569,6 +570,7 @@ Now, every time you want to work on your site, simply run the following command 
   bundle install
 </div> -->
 
+<!-- dark terminal -->
 <div class="terminal terminal--dark">
   <div class="terminal__chrome">
     <span class="terminal__dot"></span>
