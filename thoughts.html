@@ -11,10 +11,10 @@ title: Thoughts
 
 {% for item in site.thoughts reversed %}
   <!-- Article -->
-  <p class="article-list">
-    <h1 class="article">
+  <p>
+    <h1>
       <a class="no-underline" href="{{ item.url }}">
-        <p>{{ item.title }}</p>
+        <p class="article">{{ item.title }}</p>
       </a>
     </h1>
     <p class="date">{{ item.date | date: "%B %-d, %Y"}}</p>
