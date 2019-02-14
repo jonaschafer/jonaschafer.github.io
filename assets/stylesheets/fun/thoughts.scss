@@ -84,7 +84,7 @@
 
   // should be BEM, p_code, SPAN class
   .code {
-    color: $;
+    color: $grey;
     background-color: #f7f9fa;
     border-color: #e6e8eb;
     word-spacing: normal;
@@ -106,6 +106,8 @@
     margin-top: 10px;
     padding: 0;
     color: $grey-light;
+    padding-bottom: 20px;
+
 
     li {
       font-size: 14px;
@@ -118,15 +120,15 @@
     color: $grey;
 
     li {
-      font-size: 14px;
-      line-height: 22px;
+      font-size: inherit;
+      line-height: inherit;
       padding-left: 20px;
 
       &:before {
         content: "• ";
-        color: $coral;
+        color: $grey;
         margin-right: 5px;
-        font-size: 20px;
+        font-size: 26px;
       }
     }
   }
