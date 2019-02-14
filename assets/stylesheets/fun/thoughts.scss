@@ -11,12 +11,20 @@
   }
 
   h2 {
-    padding-bottom: 20px;
+    margin-top: 10px;
+    // background-color: blue;
+  }
+
+  h3 {
+    // background-color: yellow;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 0;
   }
 
   p {
     font-size: 18px;
-    line-height: 29px;
+    line-height: 28px;
   }
 
   .list {
@@ -37,6 +45,7 @@
     text-align: center;
   }
 
+// styles specific to thoughts index
   .article {
     font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
   	font-size: 26px;
@@ -69,7 +78,7 @@
      Code
   ========================================================================== */
 
-  // unsused
+  // code blocks, like terminal
   pre {
     background-color: $terminal;
     color: $bash;
@@ -78,18 +87,19 @@
     font-family: Menlo,Roboto Mono,Courier New,monospace;
     border-radius: 3px;
     padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
     height: 300px;
     overflow: auto;
   }
 
-  // should be BEM, p_code, SPAN class
+  // code snippets inside p styles
   .code {
     color: $grey;
-    background-color: #f7f9fa;
-    border-color: #e6e8eb;
+    background-color: $peach-dark; // #f7f9fa
     word-spacing: normal;
     border-radius: 1px;
-    border: 1px solid #e6e8eb;
+    border: 1px solid $peach; // #e6e8eb
     padding: 2px 2px 1px;
     font-size: 16px;
     font-family: SourceCodePro,monospace;
@@ -120,8 +130,8 @@
     color: $grey;
 
     li {
-      font-size: inherit;
-      line-height: inherit;
+      font-size: 18px;
+      line-height: 30px;
       padding-left: 20px;
 
       &:before {

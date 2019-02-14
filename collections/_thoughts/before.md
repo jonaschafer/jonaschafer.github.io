@@ -15,9 +15,7 @@ But each time I'd get into the development world, I'd get sidetracked with my ma
 
 My hope with this inaugural post is to use Jekyll has a foundation to not only write more (even if it's just code) but to also maintain that coding muscle. Jekyll is fast, and easy and is a great tool to explore code. So to start things off I thought I'd explain how I got started with Jekyll and how you could, too.
 
-## A guide to Jekyll
-
-#### What you'll learn
+## What you'll learn
 <ul class="indent">
   <li>Basic HTML, CSS and SASS</li>
   <li>Basic command line</li>
@@ -25,19 +23,19 @@ My hope with this inaugural post is to use Jekyll has a foundation to not only w
   <li>What Jekyll is and how to install it</li>
 </ul>
 
-#### So, what is Jekyll?
+## So, what is Jekyll?
 Jekyll is what's known as a "static site generator" that runs on a programming language called Ruby. For the most part, working with Jekyll is working with Markdown, HTML, CSS and SASS files. You'll hardly touch Ruby (thankfully) except for getting the system set up. Jekyll is meant for blogging, and comes pre-installed with folders for "posts" and "drafts", but you can reallly use it for anything.
 
-#### You lost me at "static."
+## You lost me at "static."
 Ruh roh. So, websites fit into two camps: dynamic and static. A dynamic site has a back-end database attached to it, most often written in PHP. Dynamic sites, like Wordpress, act like a CMS (Content Management System) so maintaining the site is ultra-simple. Typically you'd visit a login screen, enter your credentials and get started posting. Static, on the other hand, is basically a collection of folders and files, entirely written in code. It's ideal as a portfolio or blogging platform because you are just duplicating files, not setting up databases.
 
-#### What else can Jekyll do?
+## What else can Jekyll do?
 It can also convert Markdown (.md) files to HTML, has a built-in process for converting CSS to SASS (so you can use color variables, for instance), and it relies on something called a <span class="code">partial</span> - basically, a <span class="code">partial</span> is a file that includes dense information (like the contents of the <span class="code">head</span>) and stores this file into a folder called an <span class="code">includes</span>. But those are just a few of the cool things that Jekyll can do.
 
-#### You mentioned Github. Where does that come in?
+## You mentioned Github. Where does that come in?
 Github is an optional pairing with Jekyll, but it's recommended because setting up a repo on Github is free and easy, and allows you to use git as a version control system for your site. In fact, Github has a free hosting platform - Github pages - for creating your own site. Learn more about that last bit <a href="http://pages.github.com" target="_blank">here</a>.
 
-#### How do I get started?
+## How do I get started?
 There are a loads of sites dedicated to getting started, but I found <a href="https://www.taniarascia.com/make-a-static-website-with-jekyll/" target="_blank">Tania's</a> site to be the most approachable. She does a better job than I can about what you need to get started, whether that's installing <span class="code">Xcode Tools</span> or making sure you have <span class="code">bundle</span> or the right <span class="code">gems</span> installed. But, if you just want to learn the basic setup instructions, here's what you need to do (in Terminal):
 
 <pre>
@@ -55,13 +53,13 @@ There are a loads of sites dedicated to getting started, but I found <a href="ht
 </pre>
 
 
-#### Getting organized
+## Getting organized
 After installing Jekyll, you'll be gifted with a folder and sub-folders inside your repo. Depending on what you're after, say a blog or a portfolio, you can remove some of these default files. For my part, I wanted to use Jekyll for my portfolio and also to write a few articles every few months. So, here is how my site is broken down with a <span class="code">tree</span> view of my site structure:
 
 <ul class="indent">
     <li class="indent-item">Remove the <span class="code">posts</span> and <span class="code">drafts</span> folders.</li>
     <li class="indent-item">Create a <span class="code">_collections</span> folder for separate parts of my site, like <span class="code">/blog</span></li>
-    <li class="indent-item">Build my assets folder by including a folder for fonts, images, normalize.scss, and stylesheets</li>
+    <li class="indent-item">Build assets sub folders for fonts, images, normalize.scss, and stylesheets</li>
     <li class="indent-item">Add html files for particular nav and footers</li>
     <li class="indent-item">Create new <span class="code">layouts</span></li>
     <li class="indent-item">Create a few <span class="code">includes</span></li>
@@ -559,7 +557,7 @@ After installing Jekyll, you'll be gifted with a folder and sub-folders inside y
   └── work.html
 </pre>
 
-#### Process
+## Process
 Now, every time you want to work on your site, simply run the following command in Terminal to launch it locally, and get to it!
 
 <!-- <div class="terminal">
