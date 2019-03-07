@@ -20,7 +20,7 @@ First off, the items on this example are amazing (more Japan!), but also the bro
 
 ![](/assets/images/thoughts/habit-tracker.png)
 
-<!-- To that end, here's a recap of 2018:
+To that end, here's a recap of 2018:
 
 <div class="umbrella">
   <div class="umbrella-left">
@@ -42,4 +42,4 @@ First off, the items on this example are amazing (more Japan!), but also the bro
     <p class="list">Sleeping in</p>
 
   </div>
-</div> -->
+</div>
