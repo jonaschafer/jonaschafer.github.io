@@ -32,25 +32,20 @@ We tried again in 2016 but due to unforseen family complications we had to cut i
 ![](/assets/images/timberline/timberline_route-5.jpg)
 
 ## Inspiration
-
-<ul class="indent">
-  <li><a href="http://www.fs.usda.gov/recarea/mthood/recarea/?recid=71918" target="_blank">Information on the Elliot Glacier / Elliot Crossing closing</a></li>
-  <li><a href="http://www.portlandhikersfieldguide.org/wiki/Timberline_Trail_around_Mount_Hood_Hike" target="_blank">Route breakdown via Portland Hikers</a></li>
-  <li><a href="https://docs.google.com/spreadsheet/ccc?key=0Aqh886ycFM9kdHZrUEUyWVdlaGZ0TkRkWUxFWWdMVVE#gid=0" target="_blank">Ultra-light gear list example</a></li>
-  </ul>
+* <a href="http://www.fs.usda.gov/recarea/mthood/recarea/?recid=71918" target="_blank">Information on the Elliot Glacier / Elliot Crossing closing</a>
+* <a href="http://www.portlandhikersfieldguide.org/wiki/Timberline_Trail_around_Mount_Hood_Hike" target="_blank">Route breakdown via Portland Hikers</a>
+* <a href="https://docs.google.com/spreadsheet/ccc?key=0Aqh886ycFM9kdHZrUEUyWVdlaGZ0TkRkWUxFWWdMVVE#gid=0" target="_blank">Ultra-light gear list example</a>
 
 
 ## What I'm bringing
 
 ### Packed weight
-<ul class="indent">
-  <li>Backpack (REI Flash 45, M) = 2 lbs, 3 oz</li>
-  <li>Food = 8 lbs (2 lbs per day)</li>
-  <li>Water (Osprey 2.5L) = 5 lbs (2.5 liters, re-fill every day)</li>
-  <li>Clothes = ?</li>
-  <li>Sleeping bag (MH Tallac 35º) = 2 lbs</li>
-  <li>Sleeping pad (REI Flash L) = 1 lbs</li>
-</ul>
+* Backpack (REI Flash 45, M) = 2 lbs, 3 oz
+* Food = 8 lbs (2 lbs per day)
+* Water (Osprey 2.5L) = 5 lbs (2.5 liters, re-fill every day)
+* Clothes = ?
+* Sleeping bag (MH Tallac 35º) = 2 lbs
+* Sleeping pad (REI Flash L) = 1 lbs
 Total weight = ~26 lbs
 
 ### Pack distribution
@@ -60,13 +55,3 @@ Total weight = ~26 lbs
 * Outside of pack = poles
 * Head = on hand
 * Head inside = emergency
-
-
-<ul class="indent">
-  <li>Backpack (REI Flash 45, M) = 2 lbs, 3 oz</li>
-  <li>Food = 8 lbs (2 lbs per day)</li>
-  <li>Water (Osprey 2.5L) = 5 lbs (2.5 liters, re-fill every day)</li>
-  <li>Clothes = ?</li>
-  <li>Sleeping bag (MH Tallac 35º) = 2 lbs</li>
-  <li>Sleeping pad (REI Flash L) = 1 lbs</li>
-</ul>
