@@ -36,8 +36,30 @@ We tried again in 2016 but due to unforseen family complications we had to cut i
 * <a href="http://www.portlandhikersfieldguide.org/wiki/Timberline_Trail_around_Mount_Hood_Hike" target="_blank">Route breakdown via Portland Hikers</a>
 * <a href="https://docs.google.com/spreadsheet/ccc?key=0Aqh886ycFM9kdHZrUEUyWVdlaGZ0TkRkWUxFWWdMVVE#gid=0" target="_blank">Ultra-light gear list example</a>
 
+## What I learned from 2014
 
-## What I'm bringing
+### How to pack it all
+* Big REI stuff sack - Food
+* Small REI stuff sack x2 - Clothes (1 warm, 1 cold)
+
+### Snacks
+* Jerky, Haribo, M&Ms, Gorp
+* Every 2 hrs: bars and GUI (16-20)
+* More GUs, less bars
+* Cheap plastic bag for garbage
+
+### Lunches
+* PB tortillas, banana chips
+* Salami (pre-cut) and triscuits
+* No tuna (too much water, stinky)
+
+### Post hike
+* sweatpants and a clean shirt
+* Van's slip ons
+* foam roll
+* chips and shitty, cold beer
+
+## What I brought in 2014
 
 ### Packed weight
 * Backpack (REI Flash 45, M) = 2 lbs, 3 oz
@@ -51,7 +73,101 @@ Total weight = ~26 lbs
 ### Pack distribution
 * Bottom = sleeping bag, pad, pillow
 * Next = clothes; cold bag, warm bag
-* On back = food (cup, fork), water
+* On back = food bag, water
 * Outside of pack = poles
-* Head = on hand
-* Head inside = emergency
+* Head = snacks, phone
+* Head (inside) = emergency stuff
+
+### On body
+**Cold gear**
+* Next Adventure beanie
+* Running gloves
+* HEAT lightweight longsleeve
+* Smartwool socks x1
+* NB running tights
+* Salomon (red) rain jacket
+* Smartwool neck warmer
+
+**Warm gear**
+* Running shorts, x2 (Nike 5", 7")
+* Running shirt x2 (Nike Dri-Fit)
+* Feetures socks x2
+* Tevas (if there's room)
+
+**All the time**
+* Trail running shoes (La Sportiva Wildcat)
+* Myles black vented hat
+* Sunglasses
+* Yellow bandana
+
+### Gear
+
+**Emergency**
+* Matches
+* Duct tape
+* Parachute cord
+* Wallet, keys
+* Map
+* Chapstick
+* Ear plugs
+* Toilet paper
+* Band-Aids  & Neosporin
+* Pepto Bismol
+* Ibuprofen
+* Benadryl
+
+**On hand**
+* Watch (Garmin Forerunner 225)
+* Ankle gaiters
+* Sunscreen spray
+* Sunglasses
+* DEET
+* Headlamp, extra AAs
+* Bike water bottle
+* Aqua Mira
+* iPhone (airplane mode)
+* Neck bandana
+* Pocket knife
+* Trekking poles
+
+**Sleep**
+* Sleeping bag
+* Sleeping pillow
+
+### Chad
+* Tent
+* Stove
+
+### Food
+
+**Utensils**
+* Titanium cup / bowl
+* Spork
+
+**Eat**
+* Bars (x30) - Clif, Pro, etc
+* Jerky x2
+* GORP x2 - pumpkin seeds, pecans, pine nuts, macadamia
+* PnB pretzels x2
+* Tortillas x2
+* Triscuits x1 bag
+* Chianti Artisan Salami x2
+* Tuna packets x4
+* String cheese or hard cheese (slices) x3
+* Chocolate candies x3
+* Starbucks VIA coffee
+* Hammergels
+* Hammer Drink
+* MH Dinners x2
+* Energy chews x2
+
+
+### Meals
+* GORP, bar, cheese
+* PnB, dried cherries, tortilla + GORP
+* Nutella, banana chips, tortilla
+* Tuna, string cheese, tortilla
+* Pepperoni, hard cheese, tortilla
+* GORP, cheese, crackers
+* GORP, PnB, crackers
+* Bars, cheese, crackers
