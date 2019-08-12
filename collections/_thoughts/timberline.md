@@ -178,3 +178,5 @@ Total weight = ~26 lbs
 **A word on packing salami:
 Some dry sausages are shelf stable. Dry sausages include: Soppersata (a name of a salami); Salami; air-dried Pepperoni; Cerevelat; Lola, Lolita, and Lyons sausage (mildly seasoned pork with garlic); and Genoa salami (an Italian sausage usually made from pork, but might contain a small amount of beef and be moistened with wine or grape juice and seasoned with garlic).
 [via](https://askkaren.custhelp.com/app/answers/detail/a_id/5508/~/are-any-sausages-shelf-stable%3F)
+
+[More tortilla ideas here](https://www.reddit.com/r/Ultralight/comments/6t1ks7/backpacking_tortilla_calculus/)
