@@ -11,7 +11,7 @@
 .container {
   padding: 40px;
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 1200px;
 }
 
 body {
@@ -28,8 +28,12 @@ img {
 }
 
 .img-blurb {
-  color: $grey-light;
-  padding-bottom: 20px;
+  color: $terminal;
+  padding-bottom: 40px;
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 20px;
 }
 
 ul {
