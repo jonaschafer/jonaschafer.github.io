@@ -38,6 +38,34 @@ ul {
   }
 }
 
+// Added to /work to match /thoughts type treatment
+.work-list {
+  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 36px;
+  text-align: center;
+  margin: 0;
+  padding-top: 20px;
+  color: $grey;
+  // background:red;
+  // margin-bottom: 10px;
+}
+
+.work-list:hover {
+    color: $coral;
+}
+
+.work-list-blurb {
+  font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: #888;
+  // background: green;
+  // padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
 h1 {
   font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
 	font-size: 26px;
