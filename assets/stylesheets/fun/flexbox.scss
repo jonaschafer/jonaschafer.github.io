@@ -13,7 +13,7 @@
 }
 
 .grid-child {
-  background-color: $peach-dark;
+  background-color: white;
   width: 220px;
   height: 100px;
   padding: 20px;
@@ -41,7 +41,7 @@ img {
 }
 
 .grid-child:hover, .grid-child-square:hover {
-  background-color: white;
+  background-color: #f2f2f2;
 }
 
 
