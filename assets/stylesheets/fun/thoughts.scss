@@ -6,7 +6,7 @@
   background-color: white;
   padding: 40px;
   margin: 0 auto;
-  width: 800px;
+  max-width: 800px;
   // border: 3px solid #000;
   // border-radius: 20px;
 
@@ -49,6 +49,7 @@
   .date {
     font-family: 'Graphik-Regular', Helvetica, Arial, sans-serif;
     font-size: 14px;
+    line-height: 22px;
     color: $grey-light;
     // background: green;
     padding-top: 10px;
@@ -85,6 +86,23 @@
     // background: #f7f9fa;
 
   }
+
+  /* ==========================================================================
+     Queries
+  ========================================================================== */
+
+  /* Between 320 - 800px */
+  @media only screen and (max-width: 800px) and (min-width: 320px) {
+    .article {
+      font-size: 26px;
+      // background: red;
+    }
+
+    .date {
+      padding-bottom: 0;
+    }
+}
+
 
   /* ==========================================================================
      Code

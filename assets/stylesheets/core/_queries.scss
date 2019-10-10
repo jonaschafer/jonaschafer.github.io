@@ -2,8 +2,8 @@
    Queries
 ========================================================================== */
 
-/* Between 350 - 800px */
-@media only screen and (max-width: 800px) and (min-width: 350px) {
+/* Between 320 - 800px */
+@media only screen and (max-width: 800px) and (min-width: 320px) {
  h2 {
    font-size: 20px;
    line-height: 28px;
@@ -18,4 +18,10 @@
    display: block;
    align-items: start;
  }
+
+ .work-list {
+   // background: red;
+   font-size: 26px;
+ }
+
 }
