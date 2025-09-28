@@ -4,6 +4,10 @@ title: What's for dinner?
 date: 2019-02-13
 ---
 
+<div style="background: #FACC15; color: black; padding: 12px; text-align: center; margin-bottom: 20px;">
+  📍 Yo! This is from ye ol' archive. New stuff → <a href="https://jonschafer.com" style="color: #000000; text-decoration: underline;">jonschafer.com</a>
+</div>
+
 # What's for dinner?
 
 About once a week we ask this question. We ask it mainly because we're bored with what we've been making and are hoping the other person has a fantastic response. And yet, I always feel like I'm reinventing the wheel when I get asked this question. I get introspective: "Yeah, what _does_ sound good?"
