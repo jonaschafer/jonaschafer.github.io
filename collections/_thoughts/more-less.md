@@ -4,6 +4,10 @@ title: More and Less
 date: 2019-01-03
 ---
 
+<div style="background: #FACC15; color: black; padding: 12px; text-align: center; margin-bottom: 20px;">
+  📍 Yo! This is from ye ol' archive. New stuff → <a href="https://jonschafer.com" style="color: #000000; text-decoration: underline;">jonschafer.com</a>
+</div>
+
 # More and less
 
 Every Friday morning my inbox is blessed with Tim Ferriss' so-called <a href="https://tim.blog/welcome-to-5-bullet-friday/">"5 Bullet Friday"</a>, a collection of easily-digestible links to books, people, products and ideas of the week. I look forward to to it because I always come away with some new movie I should check out or a quote that shifts my perspective. Like the one I received a week before year's end and how he argues _against_ New Year's Resolutions:
