@@ -4,6 +4,10 @@ title: The semi-rebrand of Zapier
 date: 2019-02-11
 ---
 
+<div style="background: #FACC15; color: black; padding: 12px; text-align: center; margin-bottom: 20px;">
+  📍 Yo! This is from ye ol' archive. New stuff → <a href="https://jonschafer.com" style="color: #000000; text-decoration: underline;">jonschafer.com</a>
+</div>
+
 # The semi-rebrand of Zapier
 When I joined Zapier back in 2017, my first project seemed pretty straightforward: redesign an illustration for our Teams plan. A year or so later, that innocuous graphic resulted in a ripple effect that touched on not only our design system, but also our brand identity. But before we get to all of that, let’s start with a little bit of Zapier’s design history:
 
