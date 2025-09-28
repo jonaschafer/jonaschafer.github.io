@@ -4,6 +4,10 @@ title: Timberline Trail
 date: 2019-05-15
 ---
 
+<div style="background: #FACC15; color: black; padding: 12px; text-align: center; margin-bottom: 20px;">
+  📍 Yo! This is from ye ol' archive. New stuff → <a href="https://jonschafer.com" style="color: #000000; text-decoration: underline;">jonschafer.com</a>
+</div>
+
 # Hiking the Timberline Trail
 
 I first hiked the Timberline Trail with my friend Bobby <a href="https://www.flickr.com/photos/jonagold/sets/72157601400764902/" target="_blank">way back in 2005</a>. We read about it in one of our many hiking guides and thought "Gee, this sounds ambitious, let's give it a go!" So we left way too early in the season, packed _way_ too much gear and set off.
