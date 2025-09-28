@@ -4,6 +4,10 @@ title: Efficiency (at running)
 date: 2019-03-05
 ---
 
+<div style="background: #FACC15; color: black; padding: 12px; text-align: center; margin-bottom: 20px;">
+  📍 Yo! This is from ye ol' archive. New stuff → <a href="https://jonschafer.com" style="color: #000000; text-decoration: underline;">jonschafer.com</a>
+</div>
+
 # Efficiency (at running)
 
 My relationship with running is complicated. I, like most everyone else I know, _hated it_ in high school. Maybe it was because of the unexplained short cotton shorts schools insisted you wear, but the idea of running 4 laps around an orange, semi-soft circle was a dreaded activity.
