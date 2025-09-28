@@ -4,6 +4,10 @@ title: Jekyll 101
 date: 2018-08-08
 ---
 
+<div style="background: #FACC15; color: black; padding: 12px; text-align: center; margin-bottom: 20px;">
+  📍 Yo! This is from ye ol' archive. New stuff → <a href="https://jonschafer.com" style="color: #000000; text-decoration: underline;">jonschafer.com</a>
+</div>
+
 <!-- Inspired by: https://www.taniarascia.com/make-a-static-website-with-jekyll/
 https://learn.cloudcannon.com/ -->
 
